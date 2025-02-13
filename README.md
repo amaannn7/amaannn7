@@ -5,12 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/sting_codm" target="blank"><img src="https://img.shields.io/twitter/follow/sting_codm?logo=twitter&style=for-the-badge" alt="sting_codm" /></a> </p>
 
-- 🔭 I’m currently working on **lexfy mobile app**
-
-- 🌱 I’m currently learning **Java, React**
-
-- 💬 Ask me about **Web Development**
-
 - 📫 How to reach me **tigo.yusuf@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
